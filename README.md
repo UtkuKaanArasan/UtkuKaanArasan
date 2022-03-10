@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtkuKaanArasan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me utkukaan000@protonmail.ch
 
