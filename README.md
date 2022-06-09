@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Web development 
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me utkukaan000@protonmail.ch
+- 📫 How to reach me utkukaan000@gmail.com
 
 <!---
 UtkuKaanArasan/UtkuKaanArasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
