@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtkuKaanArasan
-- 👀 I’m interested in Frontend Web development 
-- 🌱 I’m currently learning ReactJS 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and it's data science tools (eg. numpy, pandas) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me utkukaan000@gmail.com
 
